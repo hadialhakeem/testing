@@ -33,3 +33,6 @@ table = dynamodb.create_table(
 )
 
 print("Table status: ", table.table_status)
+print("Elham")
+print("Badri")
+print("Hello World")
